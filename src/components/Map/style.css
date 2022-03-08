@@ -1,0 +1,26 @@
+.mapContainer {
+  width: 100%;
+  height: 92vh;
+  position: relative;
+}
+.markerContainer {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  margin: 0.5rem;
+}
+
+.markerContainer img {
+  width: 90%;
+  height: 80%;
+  margin: 20px auto;
+  cursor: pointer;
+}
