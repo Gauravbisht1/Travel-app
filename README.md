@@ -1,6 +1,6 @@
 # TRAVEL APP
 
-<h3>A Full React & API Base Travel Web App. It is a Web App that help users to find Hotels, Resturents and Other Attraction through Map. You can go through Map to Anywhere in map and this will show you all Hotels, Resturents of that place....</h3>
+<h3>A Full React & API Base Travel Web App. It is a Web App that help users to find Hotels, Resturents and Other Attraction through Map. You can go through map to anywhere and this will show you all Hotels, Resturents of that place....</h3>
 
 ![Screenshot_20220322_154735](https://user-images.githubusercontent.com/87888901/159465975-3ccbd846-3b56-4d6c-9998-fadda0ab00db.png)
 
